@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Neptuno</string>
+    <string name="title_activity_producto">ProductoActivity</string>
+</resources>

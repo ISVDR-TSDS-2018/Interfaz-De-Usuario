@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
         RequestQueue queue = Volley.newRequestQueue(this);
 
-        String url = "http://192.168.5.10/neptuno/webservice.asmx/GetPedidos";
+        String url = "http://192.168.5.5/neptuno/webservice.asmx/GetPedidos";
 
         StringRequest stringRequest = new StringRequest(
                 StringRequest.Method.GET,
